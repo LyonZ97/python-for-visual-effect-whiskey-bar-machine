@@ -1,6 +1,6 @@
 DATABASE = {
     "Alex111": {
-        "name": "Alex",
+        "username": "Alex",
         "password": "1315",
         "vip_grade": "Bronze",
         "Whiskey_Selection": "Jack Daniels",
